@@ -8,6 +8,7 @@ namespace TTCDictionary.UnitTests
     [TestFixture]
     public class LanguageDictionaryTest
     {
+        //Declare private variable
         private LanguageDictionary SUT;
 
         private Dictionary<string, string> list;
